@@ -25,6 +25,6 @@
  - 阿里云平台使用安全
  - 15python反射、描述器
 2. linux
- - 01Linux基础（一）--权限管理(https://github.com/luoqian67/LearnRecord/blob/master/01Linux%E5%9F%BA%E7%A1%80%EF%BC%88%E4%B8%80%EF%BC%89-%E6%9D%83%E9%99%90%E7%AE%A1%E7%90%86.md)
+ - [Linux基础（一）--权限管理](https://github.com/luoqian67/LearnRecord/blob/master/01Linux%E5%9F%BA%E7%A1%80%EF%BC%88%E4%B8%80%EF%BC%89-%E6%9D%83%E9%99%90%E7%AE%A1%E7%90%86.md)
  - 02umask总结                               
 <br>发现错误可以联系我[editor on GitHub](https://github.com/luoqian67/LearnRecord/edit/master/README.md)
